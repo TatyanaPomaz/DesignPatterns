@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a2efce-2f2a-44b7-80bf-17754651de10" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/weatherstation/CurrentConditionsDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/weatherstation/DisplayElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/weatherstation/Observer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/weatherstation/Subject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/weatherstation/WeatherData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/weatherstation/WeatherStation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/weatherstation1/CurrentConditionsDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/weatherstation1/DisplayElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/weatherstation1/WeatherData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/weatherstation1/WeatherStation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/jobsite/JavaDeveloperJobSite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/jobsite/JobSearch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/jobsite/Observed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/jobsite/Observer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/observer/jobsite/Subscriber.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,40 +20,60 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WeatherData.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/observer/weatherstation1/WeatherData.java">
+      <file leaf-file-name="Observer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/observer/jobsite/Observer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Observed.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/observer/jobsite/Observed.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subscriber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/observer/jobsite/Subscriber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="80" lean-forward="false" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
               <folding>
-                <element signature="e#594#595#0" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#727#728#0" expanded="true" />
-                <element signature="e#758#759#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CurrentConditionsDisplay.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/observer/weatherstation1/CurrentConditionsDisplay.java">
+      <file leaf-file-name="JavaDeveloperJobSite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/observer/jobsite/JavaDeveloperJobSite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="30" />
+            <state relative-caret-position="544">
+              <caret line="32" column="42" lean-forward="false" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeatherStation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/observer/weatherstation1/WeatherStation.java">
+      <file leaf-file-name="JobSearch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/observer/jobsite/JobSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="17" column="50" lean-forward="false" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -119,6 +134,12 @@
         <option value="$PROJECT_DIR$/src/observer/weatherstation1/DisplayElement.java" />
         <option value="$PROJECT_DIR$/src/observer/weatherstation1/CurrentConditionsDisplay.java" />
         <option value="$PROJECT_DIR$/src/observer/weatherstation1/WeatherStation.java" />
+        <option value="$PROJECT_DIR$/src/observer/site/Observer.java" />
+        <option value="$PROJECT_DIR$/src/observer/site/Observed.java" />
+        <option value="$PROJECT_DIR$/src/observer/site/Subscriber.java" />
+        <option value="$PROJECT_DIR$/src/observer/site/JavaDeveloperJobSite.java" />
+        <option value="$PROJECT_DIR$/src/observer/jobsite/JavaDeveloperJobSite.java" />
+        <option value="$PROJECT_DIR$/src/observer/jobsite/JobSearch.java" />
       </list>
     </option>
   </component>
@@ -150,6 +171,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -197,10 +220,6 @@
               <option name="myItemId" value="observer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weatherstation1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -220,14 +239,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="weatherstation" />
+              <option name="myItemId" value="jobsite" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -253,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WeatherStation (1)">
+  <component name="RunManager" selected="Application.JobSearch">
     <configuration default="false" name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -322,6 +339,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="observer.weatherstation1.WeatherStation" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DesignPatterns" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="JobSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="observer.jobsite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="observer.jobsite.JobSearch" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -721,18 +758,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
       <item index="1" class="java.lang.String" itemvalue="Application.DeveloperRunner" />
       <item index="2" class="java.lang.String" itemvalue="Application.WeatherStation" />
       <item index="3" class="java.lang.String" itemvalue="Application.WeatherStation (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JobSearch" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.WeatherStation (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.WeatherStation" />
-        <item index="2" class="java.lang.String" itemvalue="Application.DeveloperRunner" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.JobSearch" />
+        <item index="1" class="java.lang.String" itemvalue="Application.WeatherStation (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.WeatherStation" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DeveloperRunner" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MiniDuckSimulator" />
       </list>
     </recent_temporary>
   </component>
@@ -748,15 +787,16 @@
       <updated>1499273895056</updated>
       <workItem from="1499273900733" duration="3497000" />
       <workItem from="1499501742223" duration="2808000" />
-      <workItem from="1499545238789" duration="2866000" />
+      <workItem from="1499545238789" duration="2987000" />
+      <workItem from="1499587293185" duration="1944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9171000" />
+    <option name="totallyTimeSpent" value="11236000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -769,7 +809,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.757764" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -807,6 +847,24 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/observer/weatherstation1/WeatherStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weatherstation1/CurrentConditionsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/observer/weatherstation/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -836,12 +894,12 @@
         <state relative-caret-position="68">
           <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
           <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="false" />
+            <element signature="e#298#299#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#392#393#0" expanded="false" />
+            <element signature="e#845#846#0" expanded="false" />
+            <element signature="e#878#879#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1072,12 +1130,12 @@
         <state relative-caret-position="68">
           <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
           <folding>
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="false" />
+            <element signature="e#298#299#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#392#393#0" expanded="false" />
+            <element signature="e#845#846#0" expanded="false" />
+            <element signature="e#878#879#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1126,17 +1184,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1795">
           <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/weatherstation1/CurrentConditionsDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="30" />
           <folding>
-            <element signature="e#2047#2048#0" expanded="true" />
-            <element signature="e#2083#2084#0" expanded="true" />
-            <element signature="e#2952#2953#0" expanded="true" />
-            <element signature="e#2988#2989#0" expanded="true" />
-            <element signature="e#3747#3748#0" expanded="true" />
-            <element signature="e#3784#3785#0" expanded="true" />
-            <element signature="e#5696#5697#0" expanded="true" />
-            <element signature="e#5735#5736#0" expanded="true" />
-            <element signature="e#5937#5938#0" expanded="true" />
-            <element signature="e#5967#5968#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1156,13 +1212,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/observer/weatherstation1/CurrentConditionsDisplay.java">
+    <entry file="file://$PROJECT_DIR$/src/observer/jobsite/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="85">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/jobsite/Observed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/jobsite/Subscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="80" lean-forward="false" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/jobsite/JavaDeveloperJobSite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="42" lean-forward="false" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/observer/jobsite/JobSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="50" lean-forward="false" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
